@@ -1,0 +1,9 @@
+{
+	"x": -100,
+	"y": 24,
+	"width": 200,
+	"height": 20,
+	"langKey": "packmenu.server_connect",
+	"action": "CONNECT_TO_SERVER",
+	"data": "mc.legion-networks.com:25580"
+}

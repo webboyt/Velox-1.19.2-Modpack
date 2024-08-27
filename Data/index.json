@@ -1,0 +1,94 @@
+[
+    {
+        "path": "\\packmenu\\resources\\pack.mcmeta",
+        "url": "${repo_url}\\packmenu\\resources\\pack.mcmeta"
+    },
+    {
+        "path": "\\packmenu\\resources\\pack.png",
+        "url": "${repo_url}\\packmenu\\resources\\pack.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\minecraft\\texts\\credits.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\minecraft\\texts\\credits.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\minecraft\\texts\\splashes.txt",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\minecraft\\texts\\splashes.txt"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\accessibility.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\accessibility.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\custom.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\custom.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\language.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\language.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\mods.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\mods.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\multiplayer.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\multiplayer.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\options.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\options.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\quit.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\quit.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\reloadbutton.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\reloadbutton.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\buttons\\singleplayer.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\buttons\\singleplayer.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\lang\\en_us.json",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\lang\\en_us.json"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\texts\\supporters.txt",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\texts\\supporters.txt"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\aklizbutton.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\aklizbutton.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\background.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\background.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\logo.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\logo.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\reload.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\reload.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\widgets.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\packmenu\\textures\\gui\\widgets.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\minecraft\\textures\\gui\\title\\edition.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\minecraft\\textures\\gui\\title\\edition.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\minecraft\\textures\\gui\\title\\minecraft.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\minecraft\\textures\\gui\\title\\minecraft.png"
+    },
+    {
+        "path": "\\packmenu\\resources\\assets\\minecraft\\textures\\gui\\title\\mojangstudios.png",
+        "url": "${repo_url}\\packmenu\\resources\\assets\\minecraft\\textures\\gui\\title\\mojangstudios.png"
+    }
+]
